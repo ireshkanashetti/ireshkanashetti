@@ -15,9 +15,7 @@
   <a href="https://www.facebook.com/ireshkanashetti" target="_blank">
     <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook"/>
   </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/>
-  </a>
+  
 </p>
 
 ---
