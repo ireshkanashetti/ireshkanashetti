@@ -21,10 +21,11 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🌱 I’m currently learning **AWS & DevOps**  
+- 💻 Passionate about **Cloud Computing & DevOps**  
+- 🌱 Currently learning **AWS, CI/CD, and Infrastructure as Code**  
 - 💡 Exploring **Cloud, CI/CD, Infrastructure as Code**  
-- ⚡ Fun fact: I love automating things 🚀  
-- 📫 Reach me at: **your-email@gmail.com**
+- 🚀 Goal: Become a skilled **Cloud/DevOps Engineer**   
+
 
 ---
 
