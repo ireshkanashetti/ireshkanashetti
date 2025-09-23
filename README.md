@@ -3,6 +3,18 @@
   <span style="font-size:20px; font-weight:bold; color:#36BCF7;">Hi 👋 I'm Iresh</span><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Iresh+Kanashetti;AWS+%26+DevOps+Learner;Cloud+Computing+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
+<!-- Visitors Counter with Animation -->
+<div style="background-color:#d4edda; padding:10px; border-radius:10px; text-align:center;">
+
+  <!-- Scrolling (Animation) -->
+  <marquee behavior="alternate" direction="left" scrollamount="5">
+    <img src="https://komarev.com/ghpvc/?username=ireshkanashetti&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </marquee>
+
+</div>
+
+
+
 
 <!-- Social Icons -->
 <p align="center">
