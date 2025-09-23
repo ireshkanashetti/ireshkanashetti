@@ -6,7 +6,7 @@
 
 <!-- Social Icons -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/ireshkanashetti-697620349/" target="_blank">
+  <a href="https://www.linkedin.com/in/iresh-kanashetti-697620349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/itz_iresh_45/" target="_blank">
