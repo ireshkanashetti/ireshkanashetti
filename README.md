@@ -9,12 +9,7 @@
   <a href="https://www.linkedin.com/in/iresh-kanashetti-697620349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/itz_iresh_45/" target="_blank">
-    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram"/>
-  </a>
-  <a href="https://www.facebook.com/ireshkanashetti" target="_blank">
-    <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook"/>
-  </a>
+ 
   
 </p>
 
