@@ -12,34 +12,39 @@
   <img src="https://img.shields.io/badge/Profile_Views-0-blueviolet?style=plastic&logo=github&logoColor=white" alt="Profile Views"/>
 </p>
 <!-- Skills & Projects Table -->
-<h2 align="left">📊 My Skills & Projects</h2>
+<h1 align="center">📊 My Skills & Projects</h1>
 
-<table align="center" border="1" cellpadding="15" cellspacing="0" style="width: 90%; border-collapse: collapse; font-size: 18px; text-align: center;">
-  <thead>
-    <tr style="background-color: #36BCF7; color: white; height: 60px;">
-      <th style="width: 30%;">Domain</th>
-      <th style="width: 40%;">Skills / Tools</th>
-      <th style="width: 30%;">Projects</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="height: 80px;">
-      <td>Cloud Computing</td>
-      <td>AWS, EC2, S3, VPC, Lambda</td>
-      <td>Three-tier architecture, File Upload System</td>
-    </tr>
-    <tr style="height: 80px;">
-      <td>DevOps</td>
-      <td>Git,github,CI/CD, Jenkins, Docker, Kubernetes</td>
-      <td>Automated Deployment Pipeline</td>
-    </tr>
-    <tr style="height: 80px;">
-      <td>Programming</td>
-      <td>C,C#,HTML, Java, SQL</td>
-      <td>Student Management System</td>
-    </tr>
-  </tbody>
-</table>
+<h2 align="center">💼 Domains & Projects</h2>
+  <div align="center">
+
+| Domain                  | Skills / Tools                                     | Projects                                                   |
+|-------------------------|----------------------------------------------------|------------------------------------------------------------|
+| Cloud Computing         | AWS                                                | https://github.com/ireshkanashetti/Three-Tier-Architecture |                  |
+|                         | Terraform                                          | Cloud Infra Automation                                     |
+|                         | Kubernetes                                         |                                                            |
+|                         | Docker                                             |                                                            |
+| DevOps                  | Jenkins                                            |                                                            |
+|                         | GitLab                                             |                                                            |
+|                         | CI/CD                                              |                                                            |
+|                         | Ansible                                            | Git README Demo                                            |
+| Programming             | Python                                             | Automation Scripts                                         |
+|                         | Bash Scripting                                     |                                                            |
+|                         | Automation                                         |                                                            |
+|                         | Scripting Skills                                   |                                                            |
+| Web Development         | HTML                                               | Portfolio Website                                          |
+|                         | CSS                                                |                                                           |
+|                         | JavaScript                                         |                                      |
+|                         | Responsive Design                                  |                                      |
+|                         | Frontend                                           |                                      |
+| Monitoring & Logging    | CloudWatch                                         | Monitoring Setup                     |
+|                         | ELK Stack                                          |                                      |
+|                         | Prometheus                                         |                                      |
+|                         | Grafana                                            |                                      |
+| Containerization        | Docker                                             | Containerized App Deployment         |
+|                         | Kubernetes                                         |                                      |
+|                         | Helm                                               |                                      |
+| Container Orchestration | -                                                  | -                                    |
+
 
 ---
 
