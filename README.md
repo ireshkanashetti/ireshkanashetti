@@ -24,7 +24,7 @@
 |                         | Kubernetes                                         |                                                            |
 |                         | Docker                                             |                                                            |
 | DevOps                  | Jenkins                                            |                                                            |
-|                         | GitLab                                             |                                                            |
+|                         | GitLab                                             |https://github.com/ireshkanashetti/mirror-repo-github-gitlab|                                                        |
 |                         | CI/CD                                              |                                                            |
 |                         | Ansible                                            | Git README Demo                                            |
 | Programming             | Python                                             | Automation Scripts                                         |
