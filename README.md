@@ -20,7 +20,7 @@
 | Domain                  | Skills / Tools                                     | Projects                                                   |
 |-------------------------|----------------------------------------------------|------------------------------------------------------------|
 | Cloud Computing         | AWS                                                | https://github.com/ireshkanashetti/Three-Tier-Architecture |                  |
-|                         | Terraform                                          | Cloud Infra Automation                                     |
+|                         | Terraform                                          | https://github.com/ireshkanashetti/static-website-project  |
 |                         | Kubernetes                                         |                                                            |
 |                         | Docker                                             |                                                            |
 | DevOps                  | Jenkins                                            |                                                            |
